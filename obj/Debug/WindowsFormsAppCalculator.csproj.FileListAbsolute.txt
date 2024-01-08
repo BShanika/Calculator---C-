@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Calculator_C#\WindowsFormsAppCalculator\bin\Debug\WindowsFormsAppCalculator.exe.config
+C:\Users\HP\Desktop\Calculator_C#\WindowsFormsAppCalculator\bin\Debug\WindowsFormsAppCalculator.exe
+C:\Users\HP\Desktop\Calculator_C#\WindowsFormsAppCalculator\bin\Debug\WindowsFormsAppCalculator.pdb
+C:\Users\HP\Desktop\Calculator_C#\WindowsFormsAppCalculator\obj\Debug\WindowsFormsAppCalculator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Calculator_C#\WindowsFormsAppCalculator\obj\Debug\WindowsFormsAppCalculator.Form1.resources
+C:\Users\HP\Desktop\Calculator_C#\WindowsFormsAppCalculator\obj\Debug\WindowsFormsAppCalculator.Properties.Resources.resources
+C:\Users\HP\Desktop\Calculator_C#\WindowsFormsAppCalculator\obj\Debug\WindowsFormsAppCalculator.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Calculator_C#\WindowsFormsAppCalculator\obj\Debug\WindowsFormsAppCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Calculator_C#\WindowsFormsAppCalculator\obj\Debug\WindowsFormsAppCalculator.exe
+C:\Users\HP\Desktop\Calculator_C#\WindowsFormsAppCalculator\obj\Debug\WindowsFormsAppCalculator.pdb
